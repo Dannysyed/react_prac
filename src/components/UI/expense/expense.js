@@ -24,5 +24,6 @@ let Expense = (props) => {
             <Expense_item title={props.items[0].title} amount={props.items[0].amount} date={props.items[0].date}></Expense_item> */}
         </div>
     )
+
 }
 export default Expense
